@@ -1,3 +1,5 @@
+package LinkedListPackage;
+
 public class DynamicList {
 
     public static void main(String[] args) throws Exception {
@@ -49,7 +51,7 @@ class List {
 
     /**
      * Insere um element na primeira position da List.
-     * 
+     *
      * @param x int element a ser inserido.
      */
     public void insertBegin(int x) {
